@@ -1,0 +1,100 @@
+body{
+  font-family: verdana, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+@media screen and (max-width: 768px) {
+  
+  #intro{
+    /* margin: -30px -17% -100px -17% ;
+    padding: 130px 30%; */
+    background: #7510F7 ;
+    /* width: 100vw; */
+    /* background: linear-gradient(to bottom right, #734b6d , #42275a ) ; */
+  }
+  
+}
+
+#intro{
+  margin: -30px 0 -100px 0 ;
+  padding: 130px 30%;
+  background: #7510F7 ;
+  /* background: linear-gradient(to bottom right, #734b6d , #42275a ) ; */
+}
+
+.theme-bg {
+  padding:  50px 30%;
+  background: #7510F7 ;
+
+}
+.theme-bg-text {
+  color: #7510F7 ;
+
+}
+
+#ability{
+  /* background-color: #ffffff; */
+  
+  border-radius: 10px;
+}
+#ability-section{
+  
+}
+li{
+  list-style: none;
+}
+
+
+/*body {
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 70%;
+
+}
+div#cv-body {
+  display:flex;
+  margin: 10px 25%;
+  min-width: 600px;
+  border: 2px black solid;
+  /* box-shadow:0 1rem 3rem rgba(black,.175);
+  padding:  3px; 
+}
+
+#main{
+  flex: 5;
+  padding: 5px 10%;
+}
+#main li{
+  list-style-type: none;
+}
+#sidebar  {
+  background: linear-gradient(to right, #42275a, #734b6d ) ;
+  padding: 50px 10px;
+  color: #e2d4f0;
+  flex: 2;
+}
+
+.sidebar-section ul {
+  
+  list-style-type: none;
+  padding: 10px;
+}
+.theme-bg{
+  background: linear-gradient(to right, #42275a, #734b6d ) ;
+  color: #ffffff;
+}
+
+.title{
+
+}
+.location{
+  color: #532779;
+  padding-bottom : 3px ;
+  font-style: italic;
+  font-size: small;
+}
+.description{
+
+}
+
+#sidebar div:first-child ul {
+  
+}
+*/
