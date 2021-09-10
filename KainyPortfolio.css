@@ -1,17 +1,11 @@
 body{
   font-family: verdana, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   
-  #intro{
-    /* margin: -30px -17% -100px -17% ;
-    padding: 130px 30%; */
-    background: #7510F7 ;
-    /* width: 100vw; */
-    /* background: linear-gradient(to bottom right, #734b6d , #42275a ) ; */
-  }
+ 
   
-}
+} */
 
 #intro{
   margin: -30px 0 -100px 0 ;
