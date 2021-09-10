@@ -31,10 +31,11 @@ body{
 }
 .sidebar-section{
   margin: 100px auto;
+  text-align: left;
 }
 li{
-  list-style: none;
-}
+  list-style-type: none;
+  }
 
 
 /*body {
