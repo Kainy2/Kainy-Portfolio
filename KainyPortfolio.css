@@ -29,8 +29,8 @@ body{
   
   border-radius: 10px;
 }
-#ability-section{
-  
+.sidebar-section{
+  margin: 100px auto;
 }
 li{
   list-style: none;
