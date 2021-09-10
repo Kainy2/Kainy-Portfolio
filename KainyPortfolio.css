@@ -27,10 +27,11 @@ body{
 #ability{
   /* background-color: #ffffff; */
   
-  border-radius: 10px;
+  border-radius: 15px;
+  margin-bottom: 200px;
 }
 .sidebar-section{
-  margin: 100px auto;
+  /* margin: 100px auto 10px auto; */
   text-align: left;
 }
 li{
